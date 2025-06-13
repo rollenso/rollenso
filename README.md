@@ -21,9 +21,10 @@
 * Apache NuttX
 * FreeRTOS
 
-* 
+
 ### ETC
 * REST
+* Apache Kafka
 * mongodb
 * sql
 * css + html + javascript + markdown
