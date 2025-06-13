@@ -1,6 +1,6 @@
 # Rollenso - Software and Device Engineer 
 
-![.net](https://img.shields.io/badge/.net-black?style=for-the-badge&logo=.net)![SWIFT](https://img.shields.io/badge/swift-black?style=for-the-badge&logo=Swift)![CIRCUITS](https://img.shields.io/badge/Circuits-black?style=for-the-badge&logo=espressif)![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=MongoDB)![SQL](https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=MySQL)![Blender](https://img.shields.io/badge/blender-black?style=for-the-badge&logo=blender)![Autodesk](https://img.shields.io/badge/Autodesk%20Autocad-black?style=for-the-badge&logo=autodesk)![NuttX](https://img.shields.io/badge/Apache%20NuttX-black?style=for-the-badge&logo=apache)
+![.net](https://img.shields.io/badge/.net-black?style=for-the-badge&logo=.net)![SWIFT](https://img.shields.io/badge/swift-black?style=for-the-badge&logo=Swift)![CIRCUITS](https://img.shields.io/badge/Circuits-black?style=for-the-badge&logo=espressif)![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=MongoDB)![SQL](https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=MySQL)![Blender](https://img.shields.io/badge/blender-black?style=for-the-badge&logo=blender)![Autodesk](https://img.shields.io/badge/Autodesk%20Autocad-black?style=for-the-badge&logo=autodesk)![NuttX](https://img.shields.io/badge/Apache%20NuttX-black?style=for-the-badge&logo=apache)![Kafka](https://img.shields.io/badge/Apache%20Kafka-black?style=for-the-badge&logo=apachekafka)
 
 ### .NET
 * nanoframework
