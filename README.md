@@ -9,10 +9,6 @@
 * Common Language Runtime (SLR)
 * Cryptosystems
 
-### RTOS
-* Apache NuttX
-* FreeRTOS
-
 ### Swift
 * mvvm structure
 * swiftUI
@@ -22,7 +18,10 @@
 * Development of integrated circuits and tracing
 * Working with Buss (MIDI, MIPI, SPI, I2C etc...)
 * firmware development for Espressif Systems, Raspberry, Atmel AVR, Intel, RISC-V and STMicroelectronics 
+* Apache NuttX
+* FreeRTOS
 
+* 
 ### ETC
 * REST
 * mongodb
