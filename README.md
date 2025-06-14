@@ -13,6 +13,7 @@
 * mvvm structure
 * swiftUI
 * CoreData
+* CocoaPods
 
 ### Device engineering
 * Development of integrated circuits and tracing
