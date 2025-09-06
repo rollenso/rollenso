@@ -35,3 +35,6 @@
 * autodesk autocad
 * Windows IIS (windows server)
 * LVGL (graghic library)
+
+### Education
+Moscow Power Engineering Institute
