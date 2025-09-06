@@ -37,4 +37,4 @@
 * LVGL (graghic library)
 
 ### Education
-Moscow Power Engineering Institute
+* Moscow Power Engineering Institute
