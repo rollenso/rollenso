@@ -8,6 +8,7 @@
 * WPF 
 * Common Language Runtime (SLR)
 * Cryptosystems
+* gRPC
 
 ### Swift
 * mvvm structure
@@ -24,6 +25,7 @@
 
 
 ### ETC
+* gRPC
 * GNU Octave
 * REST
 * Apache Kafka
