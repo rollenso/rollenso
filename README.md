@@ -40,11 +40,12 @@
 ### ETC
 * Paseto
 * gRPC
+* RabbitMQ
 * GNU Octave
 * REST
 * Apache Kafka
-* mongodb
-* sql (MySQL, PostgreSQL, SQLLite)
+* mongodb + sharding
+* sql (MySQL, PostgreSQL, SQLLite) + sharding
 * Clickhouse
 * Redis
 * IBM Lotus DominoNotes
