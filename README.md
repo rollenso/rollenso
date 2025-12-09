@@ -59,3 +59,7 @@
 
 ### Education
 * Moscow Power Engineering Institute (Electronics and nanoelectronics)
+
+  ### Contact
+- Email: rollenso@mail.ru
+- Telegram: @rollenso
