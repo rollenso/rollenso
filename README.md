@@ -62,4 +62,4 @@
 
   ### Contact
 - Email: rollenso@mail.ru
-- Telegram: @rollenso
+- Telegram: t.me/rollenso
