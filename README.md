@@ -8,7 +8,7 @@
 
 ## Technical Skills
 Backend Development:
-*   *Languages:* C# (.NET), Golang
+*   *Languages:* C# (.NET), Swift, Golang
 *   *Frameworks:* Gin, ASP.NET (Blazor, MVC), Nanoframework
 *   *APIs & Communication:* REST, gRPC, RabbitMQ, Apache Kafka
 *   *Authentication:* Paseto
