@@ -9,7 +9,7 @@
 ## Technical Skills
 Backend Development:
 *   *Languages:* C# (.NET), Swift, Golang
-*   *Frameworks:* Gin, ASP.NET (Blazor, MVC), Nanoframework
+*   *Frameworks:* CoreData, VIPER/MVVM, Gin, ASP.NET (Blazor, MVC), Nanoframework
 *   *APIs & Communication:* REST, gRPC, RabbitMQ, Apache Kafka
 *   *Authentication:* Paseto
 *   *Testing:* Unit testing (xUnit/NUnit, Go test)
@@ -28,7 +28,7 @@ Databases:
 *   *Analytics:* ClickHouse
 
 Frontend & Mobile:
-*   *Mobile:* Swift (SwiftUI, CoreData, VIPER/MVVM), MAUI
+*   *Mobile:* SwiftUI, MAUI
 *   *Desktop:* WPF
 *   *Web:* HTML, CSS, JavaScript, Blazor (WASM)
 
