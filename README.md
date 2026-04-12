@@ -1,10 +1,10 @@
 # Rollenso - Software and Device Engineer 
 
-![.net](https://img.shields.io/badge/.net-black?style=for-the-badge&logo=.net)![SWIFT](https://img.shields.io/badge/swift-black?style=for-the-badge&logo=Swift)![CIRCUITS](https://img.shields.io/badge/Circuits-black?style=for-the-badge&logo=espressif)![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=MongoDB)![SQL](https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=MySQL)![NuttX](https://img.shields.io/badge/Apache%20NuttX-black?style=for-the-badge&logo=apache)![Kafka](https://img.shields.io/badge/Apache%20Kafka-black?style=for-the-badge&logo=apachekafka)![GNU Octave](https://img.shields.io/badge/GNU%20Octave-black?style=for-the-badge&logo=Octave)![Golang](https://img.shields.io/badge/Golang-black?style=for-the-badge&logo=Go)![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)![Kubernetes](https://img.shields.io/badge/kubernetes-black?style=for-the-badge&logo=kubernetes)![Clickhouse](https://img.shields.io/badge/clickhouse-black?style=for-the-badge&logo=clickhouse)![Rabbitmq](https://img.shields.io/badge/rabbitmq-black?style=for-the-badge&logo=rabbitmq)![Git](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git)![gRPC](https://img.shields.io/badge/gRPC-black?style=for-the-badge&logo=google)
+![.net](https://img.shields.io/badge/.net-black?style=for-the-badge&logo=.net)![AI/ML](https://img.shields.io/badge/AI%20%2F%20ML-black?style=for-the-badge&logo=pytorch&logoColor=white)![SWIFT](https://img.shields.io/badge/swift-black?style=for-the-badge&logo=Swift)![CIRCUITS](https://img.shields.io/badge/Circuits-black?style=for-the-badge&logo=espressif)![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=MongoDB)![SQL](https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=MySQL)![NuttX](https://img.shields.io/badge/Apache%20NuttX-black?style=for-the-badge&logo=apache)![Kafka](https://img.shields.io/badge/Apache%20Kafka-black?style=for-the-badge&logo=apachekafka)![GNU Octave](https://img.shields.io/badge/GNU%20Octave-black?style=for-the-badge&logo=Octave)![Golang](https://img.shields.io/badge/Golang-black?style=for-the-badge&logo=Go)![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)![Kubernetes](https://img.shields.io/badge/kubernetes-black?style=for-the-badge&logo=kubernetes)![Clickhouse](https://img.shields.io/badge/clickhouse-black?style=for-the-badge&logo=clickhouse)![Rabbitmq](https://img.shields.io/badge/rabbitmq-black?style=for-the-badge&logo=rabbitmq)![Git](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git)![gRPC](https://img.shields.io/badge/gRPC-black?style=for-the-badge&logo=google)
 
 
 > [!IMPORTANT]
-> Software and Device Engineer with expertise in backend development (Golang, .NET), embedded systems, and cross-platform solutions. Proven ability to automate business processes and secure IT infrastructure. Seeking a role that leverages full-stack and low-level programming skills to solve complex engineering challenges.
+> Software and Device Engineer with expertise in backend development (Golang, .NET), embedded systems, and cross-platform solutions. Proven ability to automate business processes and secure IT infrastructure. Seeking a role that leverages full-stack and low-level programming skills to solve complex engineering challenges. Developed and published a fine-tuned SigLIP model for high-precision aesthetic search using synthetic VLM-generated datasets and LLM-proxy architectures.
 
 ## Technical Skills
 Backend Development:
@@ -13,6 +13,7 @@ Backend Development:
 *   *APIs & Communication:* REST, gRPC, RabbitMQ, Apache Kafka
 *   *Authentication:* Paseto
 *   *Testing:* Unit testing (xUnit/NUnit, Go test)
+*   AI/ML: PyTorch, Transformers (Hugging Face), SigLIP, Vector Embeddings.
 
 Embedded & Hardware:
 *   *Platforms:* ESP32, STM32, Raspberry Pi, AVR, RISC-V
