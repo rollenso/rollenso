@@ -44,7 +44,7 @@ Bachelor | electronics and nanoelectronics
 ## Work experience
 * Hitek Group | 2024: automated the MSRP verification process by developing a program in Python and C#. Reduced the verification time for several thousand products from weeks to hours, effectively preventing price dumping and lowering employee costs.
 * Solmatic Group (local distributor) | 2025: Fixed a hacked computer system, recovered all data, and added stronger security. The company continued operating without interruption.
-
+* PPOQY | 2026: overcame high inference latency and server memory pressure by engineering a decoupled social platform in .NET 9, PyTorch, and gRPC. Implemented sub-20ms dynamic GPU batching, zero-re-encode WebP streaming to CDN, and a stochastic recommendation feed via pgvector and Redis.
 ## Contact
 - Email: rollenso@yandex.ru
 - Telegram: [@rollenso](https://t.me/rollenso)
