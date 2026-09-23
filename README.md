@@ -4,7 +4,7 @@
 
 
 > [!IMPORTANT]
-> Software and Device Engineer with expertise in backend development (Golang, .NET), embedded systems, and cross-platform solutions. Proven ability to automate business processes and secure IT infrastructure. Seeking a role that leverages full-stack and low-level programming skills to solve complex engineering challenges. Developed and published a fine-tuned SigLIP model for high-precision aesthetic search using synthetic VLM-generated datasets and LLM-proxy architectures.
+> Software and Device Engineer with expertise in backend development (.NET), embedded systems, and cross-platform solutions. Proven ability to automate business processes and secure IT infrastructure. Seeking a role that leverages full-stack and low-level programming skills to solve complex engineering challenges. Developed and published a fine-tuned SigLIP model for high-precision aesthetic search using synthetic VLM-generated datasets and LLM-proxy architectures.
 
 ## Technical Skills
 Backend Development:
@@ -34,7 +34,7 @@ Frontend & Mobile:
 
 Tools & Other:
 * Windows Server/IIS, Linux, GNU Octave, Blender, Python, C++
-
+* English: B2
 
 
 ## Education
