@@ -1,6 +1,6 @@
 # Rollenso - Software and Device Engineer 
 
-![.net](https://img.shields.io/badge/.net-black?style=for-the-badge&logo=.net)![AI/ML](https://img.shields.io/badge/AI%20%2F%20ML-black?style=for-the-badge&logo=pytorch&logoColor=white)![SWIFT](https://img.shields.io/badge/swift-black?style=for-the-badge&logo=Swift)![CIRCUITS](https://img.shields.io/badge/Circuits-black?style=for-the-badge&logo=espressif)![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=MongoDB)![SQL](https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=MySQL)![NuttX](https://img.shields.io/badge/Apache%20NuttX-black?style=for-the-badge&logo=apache)![Kafka](https://img.shields.io/badge/Apache%20Kafka-black?style=for-the-badge&logo=apachekafka)![GNU Octave](https://img.shields.io/badge/GNU%20Octave-black?style=for-the-badge&logo=Octave)![Golang](https://img.shields.io/badge/Golang-black?style=for-the-badge&logo=Go)![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)![Kubernetes](https://img.shields.io/badge/kubernetes-black?style=for-the-badge&logo=kubernetes)![Clickhouse](https://img.shields.io/badge/clickhouse-black?style=for-the-badge&logo=clickhouse)![Rabbitmq](https://img.shields.io/badge/rabbitmq-black?style=for-the-badge&logo=rabbitmq)![Git](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git)![gRPC](https://img.shields.io/badge/gRPC-black?style=for-the-badge&logo=google)
+![.net](https://img.shields.io/badge/.net-black?style=for-the-badge&logo=.net)![AI/ML](https://img.shields.io/badge/AI%20%2F%20ML-black?style=for-the-badge&logo=pytorch&logoColor=white)![SWIFT](https://img.shields.io/badge/swift-black?style=for-the-badge&logo=Swift)![CIRCUITS](https://img.shields.io/badge/Circuits-black?style=for-the-badge&logo=espressif)![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=MongoDB)![SQL](https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=MySQL)![NuttX](https://img.shields.io/badge/Apache%20NuttX-black?style=for-the-badge&logo=apache)![Kafka](https://img.shields.io/badge/Apache%20Kafka-black?style=for-the-badge&logo=apachekafka)![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)![Kubernetes](https://img.shields.io/badge/kubernetes-black?style=for-the-badge&logo=kubernetes)![Rabbitmq](https://img.shields.io/badge/rabbitmq-black?style=for-the-badge&logo=rabbitmq)![Git](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git)![gRPC](https://img.shields.io/badge/gRPC-black?style=for-the-badge&logo=google)
 
 
 > [!IMPORTANT]
@@ -8,11 +8,11 @@
 
 ## Technical Skills
 Backend Development:
-*   *Languages:* C# (.NET), Swift, Golang
-*   *Frameworks:* CoreData, VIPER/MVVM, Gin, ASP.NET (Blazor, MVC), Nanoframework
+*   *Languages:* C# (.NET)
+*   *Frameworks:* ASP.NET (Blazor, MVC), Nanoframework
 *   *APIs & Communication:* REST, gRPC, RabbitMQ, Apache Kafka
-*   *Authentication:* Paseto
-*   *Testing:* Unit testing (xUnit/NUnit, Go test)
+*   *Authentication:* Paseto, JWT
+*   *Testing:* Unit testing (xUnit/NUnit)
 *   AI/ML: PyTorch, Transformers (Hugging Face), SigLIP, Vector Embeddings.
 
 Embedded & Hardware:
@@ -26,10 +26,9 @@ Embedded & Hardware:
 Databases:
 *   *SQL:* PostgreSQL, MySQL, SQLite (experience with sharding)
 *   *NoSQL:* MongoDB (experience with sharding), Redis
-*   *Analytics:* ClickHouse
 
 Frontend & Mobile:
-*   *Mobile:* SwiftUI, MAUI
+*   *Mobile:* MAUI
 *   *Desktop:* WPF
 *   *Web:* HTML, CSS, JavaScript, Blazor (WASM)
 
@@ -47,5 +46,5 @@ Bachelor | electronics and nanoelectronics
 * Solmatic Group (local distributor) | 2025: Fixed a hacked computer system, recovered all data, and added stronger security. The company continued operating without interruption.
 
 ## Contact
-- Email: rollenso@mail.ru
+- Email: rollenso@yandex.ru
 - Telegram: [@rollenso](https://t.me/rollenso)
